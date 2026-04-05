@@ -56,3 +56,4 @@
 * **Animation:** [Framer Motion](https://www.framer.com/motion/)
 
 ## ⏬ Download / 下载
+👉 https://github.com/idbetterrun/TomaNotes-release/releases
