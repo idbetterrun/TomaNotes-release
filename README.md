@@ -6,7 +6,7 @@
   
   <p>
     <img src="https://img.shields.io/badge/Version-v0.1--beta--1-blue?style=flat-square" alt="Version">
-    <img src="https://img.shields.io/badge/Platform-macOS%20|%20Windows-lightgrey?style=flat-square" alt="Platform">
+    <img src="https://img.shields.io/badge/Platform-macOS%20-lightgrey?style=flat-square" alt="Platform">
     <img src="https://img.shields.io/badge/Tech-Electron%20|%20React%20|%20Vite-61dafb?style=flat-square" alt="Tech">
   </p>
 </div>
