@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/icon.png" width="128" height="128" style="border-radius: 24px" alt="TomaNotes Logo">
+  <img src="icon.png" width="128" height="128" style="border-radius: 24px" alt="TomaNotes Logo">
   <h1>TomaNotes</h1>
   <p><b>Secure, Local-first Note-taking for macOS.</b></p>
   <p>一款安全、本地优先的 macOS 笔记工具。</p>
